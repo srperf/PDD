@@ -7,5 +7,5 @@ The core values:
 * Consider performance from day -1 of your project.
 * Create software that self measures performance, is instrumented and monitored always and everywhere.
 * Define performance measures and thresholds continuously and by the case.
-* Evluate performance through every environment in your pipeline even after production release.
+* Evaluate performance through every environment in your pipeline, even after production release.
 * Define, implement, measure, release, measure, repeat.
