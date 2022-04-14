@@ -9,3 +9,6 @@ The core values:
 * Define performance measures and thresholds continuously and by the case.
 * Evaluate performance through every environment in your pipeline, even after production release.
 * Define, implement, measure, release, measure, repeat.
+
+[Principles](https://github.com/srperf/PDD/blob/main/Principles.md)
+[PDD Flow](https://github.com/srperf/PDD/blob/main/PDD_Flow.md)
