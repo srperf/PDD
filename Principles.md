@@ -13,4 +13,4 @@ The principles that PDD follows should enable teams to create software that perf
 - Know that your software is performing before load-testing it
 - Know your performance ALWAYS and EVERYWHERE (enable observability)
 
-[Back](https://github.com/srperf/PDD/README.md)
+[Back](https://github.com/srperf/PDD)
